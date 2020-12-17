@@ -1,29 +1,31 @@
 {
   "files": {
     "main.css": "/static/css/main.d548fcf8.chunk.css",
-    "main.js": "/static/js/main.6e72122b.chunk.js",
-    "main.js.map": "/static/js/main.6e72122b.chunk.js.map",
+    "main.js": "/static/js/main.4c4e7098.chunk.js",
+    "main.js.map": "/static/js/main.4c4e7098.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.74e01f80.js",
     "runtime-main.js.map": "/static/js/runtime-main.74e01f80.js.map",
     "static/css/2.a45e2626.chunk.css": "/static/css/2.a45e2626.chunk.css",
-    "static/js/2.18fdcf03.chunk.js": "/static/js/2.18fdcf03.chunk.js",
-    "static/js/2.18fdcf03.chunk.js.map": "/static/js/2.18fdcf03.chunk.js.map",
+    "static/js/2.73ad6872.chunk.js": "/static/js/2.73ad6872.chunk.js",
+    "static/js/2.73ad6872.chunk.js.map": "/static/js/2.73ad6872.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.54b4018ee0e65b6cc7fb946f63bf3ebd.js": "/precache-manifest.54b4018ee0e65b6cc7fb946f63bf3ebd.js",
+    "precache-manifest.ed546824a43d6bb5e0b602b03c2770b4.js": "/precache-manifest.ed546824a43d6bb5e0b602b03c2770b4.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a45e2626.chunk.css.map": "/static/css/2.a45e2626.chunk.css.map",
     "static/css/main.d548fcf8.chunk.css.map": "/static/css/main.d548fcf8.chunk.css.map",
-    "static/js/2.18fdcf03.chunk.js.LICENSE.txt": "/static/js/2.18fdcf03.chunk.js.LICENSE.txt",
+    "static/js/2.73ad6872.chunk.js.LICENSE.txt": "/static/js/2.73ad6872.chunk.js.LICENSE.txt",
     "static/media/painting1-bg.png": "/static/media/painting1-bg.1858d079.png",
     "static/media/painting1-full.png": "/static/media/painting1-full.dc8cbe15.png",
     "static/media/painting2.jpg": "/static/media/painting2.bef88bb4.jpg",
-    "static/media/painting3.jpg": "/static/media/painting3.451ed718.jpg"
+    "static/media/painting3.jpg": "/static/media/painting3.451ed718.jpg",
+    "static/media/pattern-qr-code.patt": "/static/media/pattern-qr-code.d9551d6d.patt",
+    "static/media/potatoGltf.gltf": "/static/media/potatoGltf.666718a9.gltf"
   },
   "entrypoints": [
     "static/js/runtime-main.74e01f80.js",
     "static/css/2.a45e2626.chunk.css",
-    "static/js/2.18fdcf03.chunk.js",
+    "static/js/2.73ad6872.chunk.js",
     "static/css/main.d548fcf8.chunk.css",
-    "static/js/main.6e72122b.chunk.js"
+    "static/js/main.4c4e7098.chunk.js"
   ]
 }
